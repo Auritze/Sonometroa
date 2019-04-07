@@ -1,4 +1,4 @@
-# [SONOMETROA](https://github.com/elektronikadonboscojulen/Sonometroa/wiki/SONOMETROA)
+# [SONOMETROA](https://github.com/ElektronikaDonBosco/Sonometroa/wiki/SONOMETROA)
     Egileak: Lander Pedruezo, Aitor Pazos eta Julen Perez.
 
 1. SARRERA </p>
